@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Web Page</title>
+    <link rel="stylesheet" href="style.css"> <!-- Connects CSS -->
+</head>
+<body>
+    <h1>Hello, World!</h1>
+    <p>This is my first web page.</p>
+    <button>Click me!</button>
+
+    <script>
+        // JavaScript goes here
+        window.addEventListener('load', function () {
+            console.log("Page loaded successfully!");
+        });
+    </script>
+</body>
+</html>
